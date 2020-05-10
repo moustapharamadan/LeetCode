@@ -2,7 +2,7 @@
 #include <unordered_map>
 #include <list>
 
-//460. LFU Cache
+//146. LRU Cache
 class LRUCache {
 public:
     LRUCache(int capacity) :
