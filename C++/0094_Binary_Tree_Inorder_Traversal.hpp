@@ -2,6 +2,12 @@
 #include <stack>
 #include <vector>
 
+//In-order (LNR)
+//Traverse the left subtree by recursively calling the in-order function.
+//Access the data part of the current node.
+//Traverse the right subtree by recursively calling the in-order function.
+//https://en.wikipedia.org/wiki/Tree_traversal#In-order_(LNR)
+
 struct TreeNode {
 public:
     int val;
