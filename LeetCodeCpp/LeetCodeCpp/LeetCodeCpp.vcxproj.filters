@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="pch.cpp" />
+    <ClCompile Include="source\0022_Generate_Parentheses.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="source\0099_Recover_Binary_Search_Tree_Test.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="source\0100_Same_Tree_Test.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="source\0191_Number_of_1_Bits.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="source\0237_Delete_Node_in_a_Linked_List.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="source\0307_Range_Sum_Query_Mutable.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="source\0473_Matchsticks_to_Square.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="source\0949_Largest_Time_for_Given_Digits.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="source\1253_Reconstruct_a_2_Row_Binary_Matrix.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="source\BinaryTree.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="source\optimalChange.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="pch.h" />
+    <ClInclude Include="header\0010_RegularExpressionMatching.hpp">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="header\0022_Generate_Parentheses.hpp">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="header\0044_WildcardMatching.hpp">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="header\0094_Binary_Tree_Inorder_Traversal.hpp">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="header\0098_Validate_Binary_Search_Tree.hpp">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="header\0099_Recover_Binary_Search_Tree.hpp">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="header\0100_Same_Tree.hpp">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="header\0144_Binary_Tree_Preorder_Traversal.hpp">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="header\0146_LRUCache.hpp">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="header\0169_Majority_Element.hpp">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="header\0191_Number_of_1_Bits.hpp">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="header\0226_Invert_Binary_Tree.hpp">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="header\0237_Delete_Node_in_a_Linked_List.hpp">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="header\0307_Range_Sum_Query_Mutable.hpp">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="header\0387_First_Unique_Character_in_a_String.hpp">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="header\0460_LFUCache.hpp">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="header\0473_Matchsticks_to_Square.hpp">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="header\0476_Number_Complement.hpp">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="header\0729_My_Calendar_I.hpp">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="header\0949_Largest_Time_for_Given_Digits.hpp">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="header\1009_bitwiseComplement.hpp">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="header\1029_Two_City_Scheduling.hpp">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="header\1253_Reconstruct_a_2_Row_Binary_Matrix.hpp">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="header\BinaryTree.hpp">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="header\optimalChange.hpp">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="header\0145_Binary_Tree_Postorder_Traversal.hpp">
+      <Filter>header</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="source">
+      <UniqueIdentifier>{d8f441c7-ea89-4c92-afd5-433b5537bb9a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="header">
+      <UniqueIdentifier>{304ed6ba-5de6-498b-859d-bf25a66151c8}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
