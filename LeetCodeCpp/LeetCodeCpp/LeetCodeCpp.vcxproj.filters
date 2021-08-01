@@ -35,6 +35,9 @@
     <ClCompile Include="source\optimalChange.cpp">
       <Filter>source</Filter>
     </ClCompile>
+    <ClCompile Include="source\0394_Decode_String.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h" />
@@ -116,6 +119,9 @@
     <ClInclude Include="header\0145_Binary_Tree_Postorder_Traversal.hpp">
       <Filter>header</Filter>
     </ClInclude>
+    <ClInclude Include="header\0394_Decode_String.hpp">
+      <Filter>header</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="source">
@@ -124,5 +130,8 @@
     <Filter Include="header">
       <UniqueIdentifier>{304ed6ba-5de6-498b-859d-bf25a66151c8}</UniqueIdentifier>
     </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
   </ItemGroup>
 </Project>
