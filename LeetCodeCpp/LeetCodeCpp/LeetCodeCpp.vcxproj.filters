@@ -38,6 +38,12 @@
     <ClCompile Include="source\0394_Decode_String.cpp">
       <Filter>source</Filter>
     </ClCompile>
+    <ClCompile Include="source\1514_Path_With_Maximum_Probability.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="source\0042_Trapping_Rain_Water.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h" />
@@ -120,6 +126,12 @@
       <Filter>header</Filter>
     </ClInclude>
     <ClInclude Include="header\0394_Decode_String.hpp">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="header\1514_Path_With_Maximum_Probability.hpp">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="header\0042_Trapping_Rain_Water.hpp">
       <Filter>header</Filter>
     </ClInclude>
   </ItemGroup>

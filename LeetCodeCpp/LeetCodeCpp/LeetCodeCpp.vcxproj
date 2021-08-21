@@ -35,6 +35,7 @@
   <ItemGroup>
     <ClInclude Include="header\0010_RegularExpressionMatching.hpp" />
     <ClInclude Include="header\0022_Generate_Parentheses.hpp" />
+    <ClInclude Include="header\0042_Trapping_Rain_Water.hpp" />
     <ClInclude Include="header\0044_WildcardMatching.hpp" />
     <ClInclude Include="header\0094_Binary_Tree_Inorder_Traversal.hpp" />
     <ClInclude Include="header\0098_Validate_Binary_Search_Tree.hpp" />
@@ -58,6 +59,7 @@
     <ClInclude Include="header\1009_bitwiseComplement.hpp" />
     <ClInclude Include="header\1029_Two_City_Scheduling.hpp" />
     <ClInclude Include="header\1253_Reconstruct_a_2_Row_Binary_Matrix.hpp" />
+    <ClInclude Include="header\1514_Path_With_Maximum_Probability.hpp" />
     <ClInclude Include="header\BinaryTree.hpp" />
     <ClInclude Include="header\optimalChange.hpp" />
     <ClInclude Include="pch.h" />
@@ -70,6 +72,7 @@
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Create</PrecompiledHeader>
     </ClCompile>
     <ClCompile Include="source\0022_Generate_Parentheses.cpp" />
+    <ClCompile Include="source\0042_Trapping_Rain_Water.cpp" />
     <ClCompile Include="source\0099_Recover_Binary_Search_Tree_Test.cpp" />
     <ClCompile Include="source\0100_Same_Tree_Test.cpp" />
     <ClCompile Include="source\0191_Number_of_1_Bits.cpp" />
@@ -79,6 +82,7 @@
     <ClCompile Include="source\0473_Matchsticks_to_Square.cpp" />
     <ClCompile Include="source\0949_Largest_Time_for_Given_Digits.cpp" />
     <ClCompile Include="source\1253_Reconstruct_a_2_Row_Binary_Matrix.cpp" />
+    <ClCompile Include="source\1514_Path_With_Maximum_Probability.cpp" />
     <ClCompile Include="source\BinaryTree.cpp" />
     <ClCompile Include="source\optimalChange.cpp" />
   </ItemGroup>
@@ -99,6 +103,7 @@
       <BasicRuntimeChecks>EnableFastChecks</BasicRuntimeChecks>
       <RuntimeLibrary>MultiThreadedDebugDLL</RuntimeLibrary>
       <WarningLevel>Level3</WarningLevel>
+      <LanguageStandard>stdcpp17</LanguageStandard>
     </ClCompile>
     <Link>
       <GenerateDebugInformation>true</GenerateDebugInformation>
