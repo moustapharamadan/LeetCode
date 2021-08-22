@@ -48,6 +48,7 @@
     <ClInclude Include="header\0191_Number_of_1_Bits.hpp" />
     <ClInclude Include="header\0226_Invert_Binary_Tree.hpp" />
     <ClInclude Include="header\0237_Delete_Node_in_a_Linked_List.hpp" />
+    <ClInclude Include="header\0300_Longest_Increasing_Subsequence.hpp" />
     <ClInclude Include="header\0307_Range_Sum_Query_Mutable.hpp" />
     <ClInclude Include="header\0387_First_Unique_Character_in_a_String.hpp" />
     <ClInclude Include="header\0394_Decode_String.hpp" />
@@ -77,6 +78,7 @@
     <ClCompile Include="source\0100_Same_Tree_Test.cpp" />
     <ClCompile Include="source\0191_Number_of_1_Bits.cpp" />
     <ClCompile Include="source\0237_Delete_Node_in_a_Linked_List.cpp" />
+    <ClCompile Include="source\0300_Longest_Increasing_Subsequence.cpp" />
     <ClCompile Include="source\0307_Range_Sum_Query_Mutable.cpp" />
     <ClCompile Include="source\0394_Decode_String.cpp" />
     <ClCompile Include="source\0473_Matchsticks_to_Square.cpp" />

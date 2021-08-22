@@ -44,6 +44,9 @@
     <ClCompile Include="source\0042_Trapping_Rain_Water.cpp">
       <Filter>source</Filter>
     </ClCompile>
+    <ClCompile Include="source\0300_Longest_Increasing_Subsequence.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h" />
@@ -132,6 +135,9 @@
       <Filter>header</Filter>
     </ClInclude>
     <ClInclude Include="header\0042_Trapping_Rain_Water.hpp">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="header\0300_Longest_Increasing_Subsequence.hpp">
       <Filter>header</Filter>
     </ClInclude>
   </ItemGroup>
