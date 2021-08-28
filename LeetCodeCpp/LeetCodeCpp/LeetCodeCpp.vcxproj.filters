@@ -50,6 +50,9 @@
     <ClCompile Include="source\0011_Container_With_Most_Water.cpp">
       <Filter>source</Filter>
     </ClCompile>
+    <ClCompile Include="source\0001_Two_Sum.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h" />
@@ -144,6 +147,12 @@
       <Filter>header</Filter>
     </ClInclude>
     <ClInclude Include="header\0011_Container_With_Most_Water.hpp">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="header\0001_Two_Sum.hpp">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="source\0268_Missing_Number.hpp">
       <Filter>header</Filter>
     </ClInclude>
   </ItemGroup>
