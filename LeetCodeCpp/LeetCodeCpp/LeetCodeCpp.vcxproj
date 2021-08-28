@@ -81,6 +81,7 @@
     <ClCompile Include="source\0042_Trapping_Rain_Water.cpp" />
     <ClCompile Include="source\0099_Recover_Binary_Search_Tree_Test.cpp" />
     <ClCompile Include="source\0100_Same_Tree_Test.cpp" />
+    <ClCompile Include="source\0138_Copy_List_with_RandomPointer.cpp" />
     <ClCompile Include="source\0191_Number_of_1_Bits.cpp" />
     <ClCompile Include="source\0237_Delete_Node_in_a_Linked_List.cpp" />
     <ClCompile Include="source\0300_Longest_Increasing_Subsequence.cpp" />
@@ -95,6 +96,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
+    <None Include="source\0138_Copy_List_with_RandomPointer.hpp" />
   </ItemGroup>
   <ItemDefinitionGroup />
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

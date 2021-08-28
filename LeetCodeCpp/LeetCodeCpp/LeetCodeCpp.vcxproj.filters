@@ -53,6 +53,9 @@
     <ClCompile Include="source\0001_Two_Sum.cpp">
       <Filter>source</Filter>
     </ClCompile>
+    <ClCompile Include="source\0138_Copy_List_with_RandomPointer.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h" />
@@ -166,5 +169,8 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
+    <None Include="source\0138_Copy_List_with_RandomPointer.hpp">
+      <Filter>header</Filter>
+    </None>
   </ItemGroup>
 </Project>
