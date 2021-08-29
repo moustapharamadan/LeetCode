@@ -52,6 +52,7 @@
     <ClInclude Include="header\0237_Delete_Node_in_a_Linked_List.hpp" />
     <ClInclude Include="header\0300_Longest_Increasing_Subsequence.hpp" />
     <ClInclude Include="header\0307_Range_Sum_Query_Mutable.hpp" />
+    <ClInclude Include="header\0322_Coin_Change.hpp" />
     <ClInclude Include="header\0387_First_Unique_Character_in_a_String.hpp" />
     <ClInclude Include="header\0394_Decode_String.hpp" />
     <ClInclude Include="header\0460_LFUCache.hpp" />
@@ -59,6 +60,7 @@
     <ClInclude Include="header\0476_Number_Complement.hpp" />
     <ClInclude Include="header\0729_My_Calendar_I.hpp" />
     <ClInclude Include="header\0949_Largest_Time_for_Given_Digits.hpp" />
+    <ClInclude Include="header\0983_Minimum_Cost_For_Tickets.hpp" />
     <ClInclude Include="header\1009_bitwiseComplement.hpp" />
     <ClInclude Include="header\1029_Two_City_Scheduling.hpp" />
     <ClInclude Include="header\1253_Reconstruct_a_2_Row_Binary_Matrix.hpp" />
@@ -86,9 +88,11 @@
     <ClCompile Include="source\0237_Delete_Node_in_a_Linked_List.cpp" />
     <ClCompile Include="source\0300_Longest_Increasing_Subsequence.cpp" />
     <ClCompile Include="source\0307_Range_Sum_Query_Mutable.cpp" />
+    <ClCompile Include="source\0322_Coin_Change.cpp" />
     <ClCompile Include="source\0394_Decode_String.cpp" />
     <ClCompile Include="source\0473_Matchsticks_to_Square.cpp" />
     <ClCompile Include="source\0949_Largest_Time_for_Given_Digits.cpp" />
+    <ClCompile Include="source\0983_Minimum_Cost_For_Tickets.cpp" />
     <ClCompile Include="source\1253_Reconstruct_a_2_Row_Binary_Matrix.cpp" />
     <ClCompile Include="source\1514_Path_With_Maximum_Probability.cpp" />
     <ClCompile Include="source\BinaryTree.cpp" />

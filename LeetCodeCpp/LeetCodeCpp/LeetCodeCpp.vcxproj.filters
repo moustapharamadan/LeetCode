@@ -56,6 +56,12 @@
     <ClCompile Include="source\0138_Copy_List_with_RandomPointer.cpp">
       <Filter>source</Filter>
     </ClCompile>
+    <ClCompile Include="source\0983_Minimum_Cost_For_Tickets.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="source\0322_Coin_Change.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h" />
@@ -156,6 +162,12 @@
       <Filter>header</Filter>
     </ClInclude>
     <ClInclude Include="source\0268_Missing_Number.hpp">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="header\0983_Minimum_Cost_For_Tickets.hpp">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="header\0322_Coin_Change.hpp">
       <Filter>header</Filter>
     </ClInclude>
   </ItemGroup>
