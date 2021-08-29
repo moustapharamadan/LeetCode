@@ -65,6 +65,9 @@
     <ClCompile Include="source\0151_Reverse_Words_in_a_String.cpp">
       <Filter>source</Filter>
     </ClCompile>
+    <ClCompile Include="header\0139_Word_Break.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h" />
@@ -174,6 +177,9 @@
       <Filter>header</Filter>
     </ClInclude>
     <ClInclude Include="header\0151_Reverse_Words_in_a_String.hpp">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="header\0139_Word_Break.hpp">
       <Filter>header</Filter>
     </ClInclude>
   </ItemGroup>
