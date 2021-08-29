@@ -46,6 +46,7 @@
     <ClInclude Include="header\0144_Binary_Tree_Preorder_Traversal.hpp" />
     <ClInclude Include="header\0145_Binary_Tree_Postorder_Traversal.hpp" />
     <ClInclude Include="header\0146_LRUCache.hpp" />
+    <ClInclude Include="header\0151_Reverse_Words_in_a_String.hpp" />
     <ClInclude Include="header\0169_Majority_Element.hpp" />
     <ClInclude Include="header\0191_Number_of_1_Bits.hpp" />
     <ClInclude Include="header\0226_Invert_Binary_Tree.hpp" />
@@ -84,6 +85,7 @@
     <ClCompile Include="source\0099_Recover_Binary_Search_Tree_Test.cpp" />
     <ClCompile Include="source\0100_Same_Tree_Test.cpp" />
     <ClCompile Include="source\0138_Copy_List_with_RandomPointer.cpp" />
+    <ClCompile Include="source\0151_Reverse_Words_in_a_String.cpp" />
     <ClCompile Include="source\0191_Number_of_1_Bits.cpp" />
     <ClCompile Include="source\0237_Delete_Node_in_a_Linked_List.cpp" />
     <ClCompile Include="source\0300_Longest_Increasing_Subsequence.cpp" />
