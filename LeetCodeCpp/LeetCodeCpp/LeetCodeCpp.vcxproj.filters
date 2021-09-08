@@ -68,6 +68,9 @@
     <ClCompile Include="header\0139_Word_Break.cpp">
       <Filter>source</Filter>
     </ClCompile>
+    <ClCompile Include="source\0133_Clone_Graph.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h" />
@@ -180,6 +183,9 @@
       <Filter>header</Filter>
     </ClInclude>
     <ClInclude Include="header\0139_Word_Break.hpp">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="header\0133_Clone_Graph.hpp">
       <Filter>header</Filter>
     </ClInclude>
   </ItemGroup>
