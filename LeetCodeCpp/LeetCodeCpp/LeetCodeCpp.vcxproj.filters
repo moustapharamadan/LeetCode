@@ -74,6 +74,9 @@
     <ClCompile Include="source\0101_Symmetric_Tree.cpp">
       <Filter>source</Filter>
     </ClCompile>
+    <ClCompile Include="source\0053_Maximum_Subarray.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h" />
@@ -192,6 +195,9 @@
       <Filter>header</Filter>
     </ClInclude>
     <ClInclude Include="header\0101_Symmetric_Tree.hpp">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="header\0053_Maximum_Subarray.hpp">
       <Filter>header</Filter>
     </ClInclude>
   </ItemGroup>

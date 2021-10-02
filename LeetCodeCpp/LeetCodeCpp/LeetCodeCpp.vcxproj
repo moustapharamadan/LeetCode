@@ -39,6 +39,7 @@
     <ClInclude Include="header\0022_Generate_Parentheses.hpp" />
     <ClInclude Include="header\0042_Trapping_Rain_Water.hpp" />
     <ClInclude Include="header\0044_WildcardMatching.hpp" />
+    <ClInclude Include="header\0053_Maximum_Subarray.hpp" />
     <ClInclude Include="header\0094_Binary_Tree_Inorder_Traversal.hpp" />
     <ClInclude Include="header\0098_Validate_Binary_Search_Tree.hpp" />
     <ClInclude Include="header\0099_Recover_Binary_Search_Tree.hpp" />
@@ -86,6 +87,7 @@
     <ClCompile Include="source\0011_Container_With_Most_Water.cpp" />
     <ClCompile Include="source\0022_Generate_Parentheses.cpp" />
     <ClCompile Include="source\0042_Trapping_Rain_Water.cpp" />
+    <ClCompile Include="source\0053_Maximum_Subarray.cpp" />
     <ClCompile Include="source\0099_Recover_Binary_Search_Tree_Test.cpp" />
     <ClCompile Include="source\0100_Same_Tree_Test.cpp" />
     <ClCompile Include="source\0101_Symmetric_Tree.cpp" />
