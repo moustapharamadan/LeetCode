@@ -77,6 +77,9 @@
     <ClCompile Include="source\0053_Maximum_Subarray.cpp">
       <Filter>source</Filter>
     </ClCompile>
+    <ClCompile Include="source\0050_Pow.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h" />
@@ -198,6 +201,9 @@
       <Filter>header</Filter>
     </ClInclude>
     <ClInclude Include="header\0053_Maximum_Subarray.hpp">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="header\0050_Pow.hpp">
       <Filter>header</Filter>
     </ClInclude>
   </ItemGroup>
