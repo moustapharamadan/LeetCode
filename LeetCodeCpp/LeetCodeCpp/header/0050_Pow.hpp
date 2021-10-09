@@ -17,9 +17,9 @@ namespace LEETCODE_0050 {
             if (1 == n)
                 return x;
             if (0 == n % 2)
-                return myPow(x * x, n / 2);
+                return myPositivePow(x * x, n / 2);
             else
-                return myPow(x * x, n / 2) * x;
+                return myPositivePow(x * x, n / 2) * x;
         }
     };
 }
