@@ -36,6 +36,7 @@
     <ClInclude Include="header\0001_Two_Sum.hpp" />
     <ClInclude Include="header\0010_RegularExpressionMatching.hpp" />
     <ClInclude Include="header\0011_Container_With_Most_Water.hpp" />
+    <ClInclude Include="header\0012_Integer_to_Roman.hpp" />
     <ClInclude Include="header\0022_Generate_Parentheses.hpp" />
     <ClInclude Include="header\0042_Trapping_Rain_Water.hpp" />
     <ClInclude Include="header\0044_WildcardMatching.hpp" />
@@ -86,6 +87,7 @@
     </ClCompile>
     <ClCompile Include="source\0001_Two_Sum.cpp" />
     <ClCompile Include="source\0011_Container_With_Most_Water.cpp" />
+    <ClCompile Include="source\0012_Integer_to_Roman.cpp" />
     <ClCompile Include="source\0022_Generate_Parentheses.cpp" />
     <ClCompile Include="source\0042_Trapping_Rain_Water.cpp" />
     <ClCompile Include="source\0050_Pow.cpp" />

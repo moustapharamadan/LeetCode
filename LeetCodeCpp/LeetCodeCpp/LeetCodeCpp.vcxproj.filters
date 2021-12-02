@@ -80,6 +80,9 @@
     <ClCompile Include="source\0050_Pow.cpp">
       <Filter>source</Filter>
     </ClCompile>
+    <ClCompile Include="source\0012_Integer_to_Roman.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h" />
@@ -204,6 +207,9 @@
       <Filter>header</Filter>
     </ClInclude>
     <ClInclude Include="header\0050_Pow.hpp">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="header\0012_Integer_to_Roman.hpp">
       <Filter>header</Filter>
     </ClInclude>
   </ItemGroup>
