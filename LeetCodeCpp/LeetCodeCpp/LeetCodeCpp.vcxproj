@@ -76,6 +76,7 @@
     <ClInclude Include="header\optimalChange.hpp" />
     <ClInclude Include="pch.h" />
     <ClInclude Include="source\0020_Valid_Parentheses.hpp" />
+    <ClInclude Include="source\0200_Number_of_Islands.hpp" />
     <ClInclude Include="source\0268_Missing_Number.hpp" />
   </ItemGroup>
   <ItemGroup>
@@ -101,6 +102,7 @@
     <ClCompile Include="source\0138_Copy_List_with_RandomPointer.cpp" />
     <ClCompile Include="source\0151_Reverse_Words_in_a_String.cpp" />
     <ClCompile Include="source\0191_Number_of_1_Bits.cpp" />
+    <ClCompile Include="source\0200_Number_of_Islands.cpp" />
     <ClCompile Include="source\0237_Delete_Node_in_a_Linked_List.cpp" />
     <ClCompile Include="source\0300_Longest_Increasing_Subsequence.cpp" />
     <ClCompile Include="source\0307_Range_Sum_Query_Mutable.cpp" />

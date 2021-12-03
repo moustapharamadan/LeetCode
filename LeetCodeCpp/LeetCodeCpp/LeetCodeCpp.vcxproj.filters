@@ -86,6 +86,9 @@
     <ClCompile Include="source\0020_Valid_Parentheses.cpp">
       <Filter>source</Filter>
     </ClCompile>
+    <ClCompile Include="source\0200_Number_of_Islands.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h" />
@@ -216,6 +219,9 @@
       <Filter>header</Filter>
     </ClInclude>
     <ClInclude Include="source\0020_Valid_Parentheses.hpp">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="source\0200_Number_of_Islands.hpp">
       <Filter>header</Filter>
     </ClInclude>
   </ItemGroup>
