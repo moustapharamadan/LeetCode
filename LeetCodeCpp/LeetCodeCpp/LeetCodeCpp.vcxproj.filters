@@ -95,6 +95,12 @@
     <ClCompile Include="source\0695_Max_Area_of_Island.cpp">
       <Filter>source</Filter>
     </ClCompile>
+    <ClCompile Include="source\0345_Reverse_Vowels_of_a_String.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="source\0515_Find_Largest_Value_in_Each_Tree_Row.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h" />
@@ -234,6 +240,12 @@
       <Filter>header</Filter>
     </ClInclude>
     <ClInclude Include="header\0695_Max_Area_of_Island.hpp">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="header\0345_Reverse_Vowels_of_a_String.hpp">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="header\0515_Find_Largest_Value_in_Each_Tree_Row.hpp">
       <Filter>header</Filter>
     </ClInclude>
   </ItemGroup>

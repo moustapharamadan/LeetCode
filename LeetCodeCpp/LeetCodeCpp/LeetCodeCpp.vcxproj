@@ -61,11 +61,13 @@
     <ClInclude Include="header\0300_Longest_Increasing_Subsequence.hpp" />
     <ClInclude Include="header\0307_Range_Sum_Query_Mutable.hpp" />
     <ClInclude Include="header\0322_Coin_Change.hpp" />
+    <ClInclude Include="header\0345_Reverse_Vowels_of_a_String.hpp" />
     <ClInclude Include="header\0387_First_Unique_Character_in_a_String.hpp" />
     <ClInclude Include="header\0394_Decode_String.hpp" />
     <ClInclude Include="header\0460_LFUCache.hpp" />
     <ClInclude Include="header\0473_Matchsticks_to_Square.hpp" />
     <ClInclude Include="header\0476_Number_Complement.hpp" />
+    <ClInclude Include="header\0515_Find_Largest_Value_in_Each_Tree_Row.hpp" />
     <ClInclude Include="header\0695_Max_Area_of_Island.hpp" />
     <ClInclude Include="header\0729_My_Calendar_I.hpp" />
     <ClInclude Include="header\0949_Largest_Time_for_Given_Digits.hpp" />
@@ -110,8 +112,10 @@
     <ClCompile Include="source\0300_Longest_Increasing_Subsequence.cpp" />
     <ClCompile Include="source\0307_Range_Sum_Query_Mutable.cpp" />
     <ClCompile Include="source\0322_Coin_Change.cpp" />
+    <ClCompile Include="source\0345_Reverse_Vowels_of_a_String.cpp" />
     <ClCompile Include="source\0394_Decode_String.cpp" />
     <ClCompile Include="source\0473_Matchsticks_to_Square.cpp" />
+    <ClCompile Include="source\0515_Find_Largest_Value_in_Each_Tree_Row.cpp" />
     <ClCompile Include="source\0695_Max_Area_of_Island.cpp" />
     <ClCompile Include="source\0949_Largest_Time_for_Given_Digits.cpp" />
     <ClCompile Include="source\0983_Minimum_Cost_For_Tickets.cpp" />
