@@ -92,6 +92,9 @@
     <ClCompile Include="source\0130_Surrounded_Regions.cpp">
       <Filter>source</Filter>
     </ClCompile>
+    <ClCompile Include="source\0695_Max_Area_of_Island.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h" />
@@ -228,6 +231,9 @@
       <Filter>header</Filter>
     </ClInclude>
     <ClInclude Include="header\0130_Surrounded_Regions.hpp">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="header\0695_Max_Area_of_Island.hpp">
       <Filter>header</Filter>
     </ClInclude>
   </ItemGroup>
