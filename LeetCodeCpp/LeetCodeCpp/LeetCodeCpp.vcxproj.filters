@@ -89,6 +89,9 @@
     <ClCompile Include="source\0200_Number_of_Islands.cpp">
       <Filter>source</Filter>
     </ClCompile>
+    <ClCompile Include="source\0130_Surrounded_Regions.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h" />
@@ -222,6 +225,9 @@
       <Filter>header</Filter>
     </ClInclude>
     <ClInclude Include="source\0200_Number_of_Islands.hpp">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="header\0130_Surrounded_Regions.hpp">
       <Filter>header</Filter>
     </ClInclude>
   </ItemGroup>

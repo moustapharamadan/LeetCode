@@ -47,6 +47,7 @@
     <ClInclude Include="header\0099_Recover_Binary_Search_Tree.hpp" />
     <ClInclude Include="header\0100_Same_Tree.hpp" />
     <ClInclude Include="header\0101_Symmetric_Tree.hpp" />
+    <ClInclude Include="header\0130_Surrounded_Regions.hpp" />
     <ClInclude Include="header\0133_Clone_Graph.hpp" />
     <ClInclude Include="header\0139_Word_Break.hpp" />
     <ClInclude Include="header\0144_Binary_Tree_Preorder_Traversal.hpp" />
@@ -98,6 +99,7 @@
     <ClCompile Include="source\0099_Recover_Binary_Search_Tree_Test.cpp" />
     <ClCompile Include="source\0100_Same_Tree_Test.cpp" />
     <ClCompile Include="source\0101_Symmetric_Tree.cpp" />
+    <ClCompile Include="source\0130_Surrounded_Regions.cpp" />
     <ClCompile Include="source\0133_Clone_Graph.cpp" />
     <ClCompile Include="source\0138_Copy_List_with_RandomPointer.cpp" />
     <ClCompile Include="source\0151_Reverse_Words_in_a_String.cpp" />
