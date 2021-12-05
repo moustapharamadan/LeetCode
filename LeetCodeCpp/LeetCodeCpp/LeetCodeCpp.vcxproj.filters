@@ -101,6 +101,9 @@
     <ClCompile Include="source\0515_Find_Largest_Value_in_Each_Tree_Row.cpp">
       <Filter>source</Filter>
     </ClCompile>
+    <ClCompile Include="source\0622_Design_Circular_Queue.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h" />
@@ -246,6 +249,9 @@
       <Filter>header</Filter>
     </ClInclude>
     <ClInclude Include="header\0515_Find_Largest_Value_in_Each_Tree_Row.hpp">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="header\0622_Design_Circular_Queue.hpp">
       <Filter>header</Filter>
     </ClInclude>
   </ItemGroup>
