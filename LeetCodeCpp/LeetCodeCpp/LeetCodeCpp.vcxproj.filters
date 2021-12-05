@@ -104,6 +104,9 @@
     <ClCompile Include="source\0622_Design_Circular_Queue.cpp">
       <Filter>source</Filter>
     </ClCompile>
+    <ClCompile Include="source\0752_Open_the_Lock.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h" />
@@ -252,6 +255,9 @@
       <Filter>header</Filter>
     </ClInclude>
     <ClInclude Include="header\0622_Design_Circular_Queue.hpp">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="header\0752_Open_the_Lock.hpp">
       <Filter>header</Filter>
     </ClInclude>
   </ItemGroup>

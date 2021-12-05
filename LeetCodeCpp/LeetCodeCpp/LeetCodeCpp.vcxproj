@@ -71,6 +71,7 @@
     <ClInclude Include="header\0622_Design_Circular_Queue.hpp" />
     <ClInclude Include="header\0695_Max_Area_of_Island.hpp" />
     <ClInclude Include="header\0729_My_Calendar_I.hpp" />
+    <ClInclude Include="header\0752_Open_the_Lock.hpp" />
     <ClInclude Include="header\0949_Largest_Time_for_Given_Digits.hpp" />
     <ClInclude Include="header\0983_Minimum_Cost_For_Tickets.hpp" />
     <ClInclude Include="header\1009_bitwiseComplement.hpp" />
@@ -119,6 +120,7 @@
     <ClCompile Include="source\0515_Find_Largest_Value_in_Each_Tree_Row.cpp" />
     <ClCompile Include="source\0622_Design_Circular_Queue.cpp" />
     <ClCompile Include="source\0695_Max_Area_of_Island.cpp" />
+    <ClCompile Include="source\0752_Open_the_Lock.cpp" />
     <ClCompile Include="source\0949_Largest_Time_for_Given_Digits.cpp" />
     <ClCompile Include="source\0983_Minimum_Cost_For_Tickets.cpp" />
     <ClCompile Include="source\1253_Reconstruct_a_2_Row_Binary_Matrix.cpp" />
