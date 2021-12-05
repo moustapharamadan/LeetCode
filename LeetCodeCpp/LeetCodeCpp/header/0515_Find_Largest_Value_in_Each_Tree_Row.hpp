@@ -1,5 +1,6 @@
 #pragma once
 #include <vector>
+#include <queue>
 #include "BinaryTree.hpp"
 
 namespace LEETCODE_0515 {
@@ -10,25 +11,25 @@ namespace LEETCODE_0515 {
             if (!root)
                 return std::vector<int>();
 
-            std::vector<TreeNode*> q;
-            q.push_back(root);
+            std::queue<TreeNode*> q;
+            q.push(root);
 
             std::vector<int> result;
             while (!q.empty())
             {
-                std::vector<TreeNode*> temp = q;
-                q.clear();
+                const int size = q.size();
                 bool hasNode = false;
                 int maxi = std::numeric_limits<int>::min();
-                for (const TreeNode* node : temp)
+                for (int i=0;i<size;++i)
                 {
-                    if (node)
+                    if (TreeNode* node=q.front())
                     {
                         maxi = std::max(maxi, node->val);
-                        q.push_back(node->left);
-                        q.push_back(node->right);
+                        q.push(node->left);
+                        q.push(node->right);
                         hasNode = true;
                     }
+                    q.pop();
                 }
                 if (hasNode)
                     result.push_back(maxi);
