@@ -107,6 +107,9 @@
     <ClCompile Include="source\0752_Open_the_Lock.cpp">
       <Filter>source</Filter>
     </ClCompile>
+    <ClCompile Include="source\0279_Perfect_Squares.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h" />
@@ -258,6 +261,9 @@
       <Filter>header</Filter>
     </ClInclude>
     <ClInclude Include="header\0752_Open_the_Lock.hpp">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="header\0279_Perfect_Squares.hpp">
       <Filter>header</Filter>
     </ClInclude>
   </ItemGroup>
