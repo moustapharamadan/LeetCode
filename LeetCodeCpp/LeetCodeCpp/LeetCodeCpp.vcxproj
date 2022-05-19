@@ -56,6 +56,7 @@
     <ClInclude Include="header\0151_Reverse_Words_in_a_String.hpp" />
     <ClInclude Include="header\0169_Majority_Element.hpp" />
     <ClInclude Include="header\0191_Number_of_1_Bits.hpp" />
+    <ClInclude Include="header\0210_Course_Schedule_II.hpp" />
     <ClInclude Include="header\0226_Invert_Binary_Tree.hpp" />
     <ClInclude Include="header\0237_Delete_Node_in_a_Linked_List.hpp" />
     <ClInclude Include="header\0279_Perfect_Squares.hpp" />
@@ -111,6 +112,7 @@
     <ClCompile Include="source\0151_Reverse_Words_in_a_String.cpp" />
     <ClCompile Include="source\0191_Number_of_1_Bits.cpp" />
     <ClCompile Include="source\0200_Number_of_Islands.cpp" />
+    <ClCompile Include="source\0210_Course_Schedule_II.cpp" />
     <ClCompile Include="source\0237_Delete_Node_in_a_Linked_List.cpp" />
     <ClCompile Include="source\0279_Perfect_Squares.cpp" />
     <ClCompile Include="source\0300_Longest_Increasing_Subsequence.cpp" />

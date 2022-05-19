@@ -110,6 +110,9 @@
     <ClCompile Include="source\0279_Perfect_Squares.cpp">
       <Filter>source</Filter>
     </ClCompile>
+    <ClCompile Include="source\0210_Course_Schedule_II.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h" />
@@ -264,6 +267,9 @@
       <Filter>header</Filter>
     </ClInclude>
     <ClInclude Include="header\0279_Perfect_Squares.hpp">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="header\0210_Course_Schedule_II.hpp">
       <Filter>header</Filter>
     </ClInclude>
   </ItemGroup>
