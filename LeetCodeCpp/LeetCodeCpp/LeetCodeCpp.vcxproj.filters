@@ -113,6 +113,9 @@
     <ClCompile Include="source\0210_Course_Schedule_II.cpp">
       <Filter>source</Filter>
     </ClCompile>
+    <ClCompile Include="source\0207_Course_Schedule.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h" />
@@ -270,6 +273,9 @@
       <Filter>header</Filter>
     </ClInclude>
     <ClInclude Include="header\0210_Course_Schedule_II.hpp">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="header\0207_Course_Schedule.hpp">
       <Filter>header</Filter>
     </ClInclude>
   </ItemGroup>
