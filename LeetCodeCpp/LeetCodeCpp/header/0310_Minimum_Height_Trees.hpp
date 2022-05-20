@@ -15,7 +15,7 @@ namespace LEETCODE_0310 {
             std::queue<int> leaves;
             for (int i = 0; i < graph.size(); ++i)
             {
-                if (1 == graph[i].size())
+                if (1 >= graph[i].size())
                 {
                     leaves.push(i);
                 }
@@ -49,21 +49,6 @@ namespace LEETCODE_0310 {
                 leaves.pop();
             }
             return result;
-        }
-
-        int nodeHeight(const int leaf, const Graph& graph, std::vector<bool>& visited)
-        {
-            int height = 0;
-            for (int neighbor : graph[leaf])
-            {
-                if (!visited[neighbor])
-                {
-                    visited[neighbor] = true;
-                    height += 1 + nodeHeight(neighbor, graph, visited);
-                    visited[neighbor] = false;
-                }
-            }
-            return height;
         }
 
         Graph buildGraph(const int numCourses, const std::vector<std::vector<int>>& edges)
