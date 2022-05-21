@@ -21,3 +21,10 @@ TEST_F(MinimumHeightTrees, empty)
 	std::vector<std::vector<int>> edges = { };
 	EXPECT_EQ(findMinHeightTrees(1, edges), std::vector<int>({ 0 }));
 }
+
+
+TEST_F(MinimumHeightTrees, test3)
+{
+	std::vector<std::vector<int>> edges = { {0,1},{0,2},{2,3},{0,4},{2,5},{5,6},{3,7},{6,8},{8,9},{9,10} };
+	EXPECT_EQ(findMinHeightTrees(11, edges), std::vector<int>({ 5,6 }));
+}
