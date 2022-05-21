@@ -119,6 +119,9 @@
     <ClCompile Include="source\0310_Minimum_Height_Trees.cpp">
       <Filter>source</Filter>
     </ClCompile>
+    <ClCompile Include="source\0797_All_Paths_From_Source_to_Target.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h" />
@@ -282,6 +285,9 @@
       <Filter>header</Filter>
     </ClInclude>
     <ClInclude Include="header\0310_Minimum_Height_Trees.hpp">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="header\0797_All_Paths_From_Source_to_Target.hpp">
       <Filter>header</Filter>
     </ClInclude>
   </ItemGroup>
