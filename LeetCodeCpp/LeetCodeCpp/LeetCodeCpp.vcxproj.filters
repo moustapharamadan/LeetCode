@@ -122,6 +122,15 @@
     <ClCompile Include="source\0797_All_Paths_From_Source_to_Target.cpp">
       <Filter>source</Filter>
     </ClCompile>
+    <ClCompile Include="source\1976_Number_of Ways_to_Arrive_at_Destination.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="source\0743_Network_Delay_Time.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="source\0086_Partition_List.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h" />
@@ -288,6 +297,15 @@
       <Filter>header</Filter>
     </ClInclude>
     <ClInclude Include="header\0797_All_Paths_From_Source_to_Target.hpp">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="header\1976_Number_of Ways_to_Arrive_at_Destination.hpp">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="header\0743_Network_Delay_Time.hpp">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="header\0086_Partition_List.hpp">
       <Filter>header</Filter>
     </ClInclude>
   </ItemGroup>

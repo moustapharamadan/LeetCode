@@ -42,6 +42,7 @@
     <ClInclude Include="header\0044_WildcardMatching.hpp" />
     <ClInclude Include="header\0050_Pow.hpp" />
     <ClInclude Include="header\0053_Maximum_Subarray.hpp" />
+    <ClInclude Include="header\0086_Partition_List.hpp" />
     <ClInclude Include="header\0094_Binary_Tree_Inorder_Traversal.hpp" />
     <ClInclude Include="header\0098_Validate_Binary_Search_Tree.hpp" />
     <ClInclude Include="header\0099_Recover_Binary_Search_Tree.hpp" />
@@ -75,6 +76,7 @@
     <ClInclude Include="header\0622_Design_Circular_Queue.hpp" />
     <ClInclude Include="header\0695_Max_Area_of_Island.hpp" />
     <ClInclude Include="header\0729_My_Calendar_I.hpp" />
+    <ClInclude Include="header\0743_Network_Delay_Time.hpp" />
     <ClInclude Include="header\0752_Open_the_Lock.hpp" />
     <ClInclude Include="header\0797_All_Paths_From_Source_to_Target.hpp" />
     <ClInclude Include="header\0949_Largest_Time_for_Given_Digits.hpp" />
@@ -83,6 +85,7 @@
     <ClInclude Include="header\1029_Two_City_Scheduling.hpp" />
     <ClInclude Include="header\1253_Reconstruct_a_2_Row_Binary_Matrix.hpp" />
     <ClInclude Include="header\1514_Path_With_Maximum_Probability.hpp" />
+    <ClInclude Include="header\1976_Number_of Ways_to_Arrive_at_Destination.hpp" />
     <ClInclude Include="header\BinaryTree.hpp" />
     <ClInclude Include="header\optimalChange.hpp" />
     <ClInclude Include="pch.h" />
@@ -106,6 +109,7 @@
     <ClCompile Include="source\0042_Trapping_Rain_Water.cpp" />
     <ClCompile Include="source\0050_Pow.cpp" />
     <ClCompile Include="source\0053_Maximum_Subarray.cpp" />
+    <ClCompile Include="source\0086_Partition_List.cpp" />
     <ClCompile Include="source\0099_Recover_Binary_Search_Tree_Test.cpp" />
     <ClCompile Include="source\0100_Same_Tree_Test.cpp" />
     <ClCompile Include="source\0101_Symmetric_Tree.cpp" />
@@ -129,12 +133,14 @@
     <ClCompile Include="source\0515_Find_Largest_Value_in_Each_Tree_Row.cpp" />
     <ClCompile Include="source\0622_Design_Circular_Queue.cpp" />
     <ClCompile Include="source\0695_Max_Area_of_Island.cpp" />
+    <ClCompile Include="source\0743_Network_Delay_Time.cpp" />
     <ClCompile Include="source\0752_Open_the_Lock.cpp" />
     <ClCompile Include="source\0797_All_Paths_From_Source_to_Target.cpp" />
     <ClCompile Include="source\0949_Largest_Time_for_Given_Digits.cpp" />
     <ClCompile Include="source\0983_Minimum_Cost_For_Tickets.cpp" />
     <ClCompile Include="source\1253_Reconstruct_a_2_Row_Binary_Matrix.cpp" />
     <ClCompile Include="source\1514_Path_With_Maximum_Probability.cpp" />
+    <ClCompile Include="source\1976_Number_of Ways_to_Arrive_at_Destination.cpp" />
     <ClCompile Include="source\BinaryTree.cpp" />
     <ClCompile Include="source\optimalChange.cpp" />
   </ItemGroup>
