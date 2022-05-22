@@ -131,6 +131,9 @@
     <ClCompile Include="source\0086_Partition_List.cpp">
       <Filter>source</Filter>
     </ClCompile>
+    <ClCompile Include="source\1971_Find_if_Path_Exists_in_Graph.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h" />
@@ -306,6 +309,9 @@
       <Filter>header</Filter>
     </ClInclude>
     <ClInclude Include="header\0086_Partition_List.hpp">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="header\1971_Find_if_Path_Exists_in_Graph.hpp">
       <Filter>header</Filter>
     </ClInclude>
   </ItemGroup>

@@ -85,6 +85,7 @@
     <ClInclude Include="header\1029_Two_City_Scheduling.hpp" />
     <ClInclude Include="header\1253_Reconstruct_a_2_Row_Binary_Matrix.hpp" />
     <ClInclude Include="header\1514_Path_With_Maximum_Probability.hpp" />
+    <ClInclude Include="header\1971_Find_if_Path_Exists_in_Graph.hpp" />
     <ClInclude Include="header\1976_Number_of Ways_to_Arrive_at_Destination.hpp" />
     <ClInclude Include="header\BinaryTree.hpp" />
     <ClInclude Include="header\optimalChange.hpp" />
@@ -140,6 +141,7 @@
     <ClCompile Include="source\0983_Minimum_Cost_For_Tickets.cpp" />
     <ClCompile Include="source\1253_Reconstruct_a_2_Row_Binary_Matrix.cpp" />
     <ClCompile Include="source\1514_Path_With_Maximum_Probability.cpp" />
+    <ClCompile Include="source\1971_Find_if_Path_Exists_in_Graph.cpp" />
     <ClCompile Include="source\1976_Number_of Ways_to_Arrive_at_Destination.cpp" />
     <ClCompile Include="source\BinaryTree.cpp" />
     <ClCompile Include="source\optimalChange.cpp" />
