@@ -134,6 +134,9 @@
     <ClCompile Include="source\1971_Find_if_Path_Exists_in_Graph.cpp">
       <Filter>source</Filter>
     </ClCompile>
+    <ClCompile Include="source\0108_Convert_Sorted_Array_to_Binary_Search_Tree.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h" />
@@ -312,6 +315,9 @@
       <Filter>header</Filter>
     </ClInclude>
     <ClInclude Include="header\1971_Find_if_Path_Exists_in_Graph.hpp">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="header\0108_Convert_Sorted_Array_to_Binary_Search_Tree.hpp">
       <Filter>header</Filter>
     </ClInclude>
   </ItemGroup>
