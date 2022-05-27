@@ -64,6 +64,7 @@
     <ClInclude Include="header\0207_Course_Schedule.hpp" />
     <ClInclude Include="header\0210_Course_Schedule_II.hpp" />
     <ClInclude Include="header\0226_Invert_Binary_Tree.hpp" />
+    <ClInclude Include="header\0236_Lowest_Common_Ancestor_of_a_Binary_Tree.hpp" />
     <ClInclude Include="header\0237_Delete_Node_in_a_Linked_List.hpp" />
     <ClInclude Include="header\0279_Perfect_Squares.hpp" />
     <ClInclude Include="header\0300_Longest_Increasing_Subsequence.hpp" />
@@ -131,6 +132,7 @@
     <ClCompile Include="source\0200_Number_of_Islands.cpp" />
     <ClCompile Include="source\0207_Course_Schedule.cpp" />
     <ClCompile Include="source\0210_Course_Schedule_II.cpp" />
+    <ClCompile Include="source\0236_Lowest_Common_Ancestor_of_a_Binary_Tree.cpp" />
     <ClCompile Include="source\0237_Delete_Node_in_a_Linked_List.cpp" />
     <ClCompile Include="source\0279_Perfect_Squares.cpp" />
     <ClCompile Include="source\0300_Longest_Increasing_Subsequence.cpp" />
