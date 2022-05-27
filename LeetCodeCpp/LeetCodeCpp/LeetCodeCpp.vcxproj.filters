@@ -143,6 +143,9 @@
     <ClCompile Include="source\0102_Binary_Tree_Level_Order_Traversal.cpp">
       <Filter>source</Filter>
     </ClCompile>
+    <ClCompile Include="source\0110_Balanced_Binary_Tree.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h" />
@@ -330,6 +333,9 @@
       <Filter>header</Filter>
     </ClInclude>
     <ClInclude Include="header\0102_Binary_Tree_Level_Order_Traversal.hpp">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="header\0110_Balanced_Binary_Tree.hpp">
       <Filter>header</Filter>
     </ClInclude>
   </ItemGroup>
