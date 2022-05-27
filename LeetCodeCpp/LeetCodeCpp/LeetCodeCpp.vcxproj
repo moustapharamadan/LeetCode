@@ -115,6 +115,7 @@
     <ClCompile Include="source\0050_Pow.cpp" />
     <ClCompile Include="source\0053_Maximum_Subarray.cpp" />
     <ClCompile Include="source\0086_Partition_List.cpp" />
+    <ClCompile Include="source\0098_Validate_Binary_Search_Tree.cpp" />
     <ClCompile Include="source\0099_Recover_Binary_Search_Tree_Test.cpp" />
     <ClCompile Include="source\0100_Same_Tree_Test.cpp" />
     <ClCompile Include="source\0101_Symmetric_Tree.cpp" />

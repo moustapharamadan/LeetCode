@@ -146,6 +146,9 @@
     <ClCompile Include="source\0110_Balanced_Binary_Tree.cpp">
       <Filter>source</Filter>
     </ClCompile>
+    <ClCompile Include="source\0098_Validate_Binary_Search_Tree.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h" />
