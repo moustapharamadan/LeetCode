@@ -89,6 +89,7 @@
     <ClInclude Include="header\0983_Minimum_Cost_For_Tickets.hpp" />
     <ClInclude Include="header\1009_bitwiseComplement.hpp" />
     <ClInclude Include="header\1029_Two_City_Scheduling.hpp" />
+    <ClInclude Include="header\0112_Path_Sum.hpp" />
     <ClInclude Include="header\1253_Reconstruct_a_2_Row_Binary_Matrix.hpp" />
     <ClInclude Include="header\1514_Path_With_Maximum_Probability.hpp" />
     <ClInclude Include="header\1971_Find_if_Path_Exists_in_Graph.hpp" />
@@ -125,6 +126,7 @@
     <ClCompile Include="source\0108_Convert_Sorted_Array_to_Binary_Search_Tree.cpp" />
     <ClCompile Include="source\0109_Convert_Sorted_List_to_Binary_Search_Tree.cpp" />
     <ClCompile Include="source\0110_Balanced_Binary_Tree.cpp" />
+    <ClCompile Include="source\0112_Path_Sum.cpp" />
     <ClCompile Include="source\0130_Surrounded_Regions.cpp" />
     <ClCompile Include="source\0133_Clone_Graph.cpp" />
     <ClCompile Include="source\0138_Copy_List_with_RandomPointer.cpp" />
