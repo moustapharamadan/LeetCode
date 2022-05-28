@@ -1,7 +1,5 @@
 #pragma once
 
-#include<queue>
-
 namespace LEETCODE_0112 {
     struct TreeNode {
         int val;

@@ -158,6 +158,9 @@
     <ClCompile Include="source\0112_Path_Sum.cpp">
       <Filter>source</Filter>
     </ClCompile>
+    <ClCompile Include="source\0113_Path_Sum_II.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h" />
@@ -357,6 +360,9 @@
       <Filter>header</Filter>
     </ClInclude>
     <ClInclude Include="header\0112_Path_Sum.hpp">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="header\0113_Path_Sum_II.hpp">
       <Filter>header</Filter>
     </ClInclude>
   </ItemGroup>
