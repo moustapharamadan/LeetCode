@@ -152,6 +152,9 @@
     <ClCompile Include="source\0236_Lowest_Common_Ancestor_of_a_Binary_Tree.cpp">
       <Filter>source</Filter>
     </ClCompile>
+    <ClCompile Include="source\0572_Subtree_of_Another_Tree.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h" />
@@ -345,6 +348,9 @@
       <Filter>header</Filter>
     </ClInclude>
     <ClInclude Include="header\0236_Lowest_Common_Ancestor_of_a_Binary_Tree.hpp">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="header\0572_Subtree_of_Another_Tree.hpp">
       <Filter>header</Filter>
     </ClInclude>
   </ItemGroup>
