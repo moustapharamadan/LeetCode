@@ -164,6 +164,9 @@
     <ClCompile Include="source\0437_Path_Sum_III.cpp">
       <Filter>source</Filter>
     </ClCompile>
+    <ClCompile Include="source\0146_LRU_Cache.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h" />
@@ -369,6 +372,9 @@
       <Filter>header</Filter>
     </ClInclude>
     <ClInclude Include="header\0437_Path_Sum_III.hpp">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="header\0146_LRU_Cache.hpp">
       <Filter>header</Filter>
     </ClInclude>
   </ItemGroup>

@@ -59,6 +59,7 @@
     <ClInclude Include="header\0144_Binary_Tree_Preorder_Traversal.hpp" />
     <ClInclude Include="header\0145_Binary_Tree_Postorder_Traversal.hpp" />
     <ClInclude Include="header\0146_LRUCache.hpp" />
+    <ClInclude Include="header\0146_LRU_Cache.hpp" />
     <ClInclude Include="header\0151_Reverse_Words_in_a_String.hpp" />
     <ClInclude Include="header\0169_Majority_Element.hpp" />
     <ClInclude Include="header\0191_Number_of_1_Bits.hpp" />
@@ -133,6 +134,7 @@
     <ClCompile Include="source\0130_Surrounded_Regions.cpp" />
     <ClCompile Include="source\0133_Clone_Graph.cpp" />
     <ClCompile Include="source\0138_Copy_List_with_RandomPointer.cpp" />
+    <ClCompile Include="source\0146_LRU_Cache.cpp" />
     <ClCompile Include="source\0151_Reverse_Words_in_a_String.cpp" />
     <ClCompile Include="source\0191_Number_of_1_Bits.cpp" />
     <ClCompile Include="source\0200_Number_of_Islands.cpp" />
