@@ -81,6 +81,7 @@
     <ClInclude Include="header\0437_Path_Sum_III.hpp" />
     <ClInclude Include="header\0449_Serialize_and_Deserialize_BST.hpp" />
     <ClInclude Include="header\0460_LFUCache.hpp" />
+    <ClInclude Include="header\0460_LFU_Cache.hpp" />
     <ClInclude Include="header\0473_Matchsticks_to_Square.hpp" />
     <ClInclude Include="header\0476_Number_Complement.hpp" />
     <ClInclude Include="header\0515_Find_Largest_Value_in_Each_Tree_Row.hpp" />
@@ -156,6 +157,7 @@
     <ClCompile Include="source\0394_Decode_String.cpp" />
     <ClCompile Include="source\0437_Path_Sum_III.cpp" />
     <ClCompile Include="source\0449_Serialize_and_Deserialize_BST.cpp" />
+    <ClCompile Include="source\0460_LFU_Cache.cpp" />
     <ClCompile Include="source\0473_Matchsticks_to_Square.cpp" />
     <ClCompile Include="source\0515_Find_Largest_Value_in_Each_Tree_Row.cpp" />
     <ClCompile Include="source\0572_Subtree_of_Another_Tree.cpp" />

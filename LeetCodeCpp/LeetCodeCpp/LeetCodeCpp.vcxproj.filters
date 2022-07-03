@@ -176,6 +176,9 @@
     <ClCompile Include="source\0297_Serialize_and_Deserialize_Binary_Tree.cpp">
       <Filter>source</Filter>
     </ClCompile>
+    <ClCompile Include="source\0460_LFU_Cache.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h" />
@@ -393,6 +396,9 @@
       <Filter>header</Filter>
     </ClInclude>
     <ClInclude Include="header\0297_Serialize_and_Deserialize_Binary_Tree.hpp">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="header\0460_LFU_Cache.hpp">
       <Filter>header</Filter>
     </ClInclude>
   </ItemGroup>
