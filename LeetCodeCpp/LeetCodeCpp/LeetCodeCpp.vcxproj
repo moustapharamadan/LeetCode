@@ -70,6 +70,7 @@
     <ClInclude Include="header\0236_Lowest_Common_Ancestor_of_a_Binary_Tree.hpp" />
     <ClInclude Include="header\0237_Delete_Node_in_a_Linked_List.hpp" />
     <ClInclude Include="header\0279_Perfect_Squares.hpp" />
+    <ClInclude Include="header\0297_Serialize_and_Deserialize_Binary_Tree.hpp" />
     <ClInclude Include="header\0300_Longest_Increasing_Subsequence.hpp" />
     <ClInclude Include="header\0307_Range_Sum_Query_Mutable.hpp" />
     <ClInclude Include="header\0310_Minimum_Height_Trees.hpp" />
@@ -146,6 +147,7 @@
     <ClCompile Include="source\0236_Lowest_Common_Ancestor_of_a_Binary_Tree.cpp" />
     <ClCompile Include="source\0237_Delete_Node_in_a_Linked_List.cpp" />
     <ClCompile Include="source\0279_Perfect_Squares.cpp" />
+    <ClCompile Include="source\0297_Serialize_and_Deserialize_Binary_Tree.cpp" />
     <ClCompile Include="source\0300_Longest_Increasing_Subsequence.cpp" />
     <ClCompile Include="source\0307_Range_Sum_Query_Mutable.cpp" />
     <ClCompile Include="source\0310_Minimum_Height_Trees.cpp" />

@@ -173,6 +173,9 @@
     <ClCompile Include="source\0449_Serialize_and_Deserialize_BST.cpp">
       <Filter>source</Filter>
     </ClCompile>
+    <ClCompile Include="source\0297_Serialize_and_Deserialize_Binary_Tree.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h" />
@@ -387,6 +390,9 @@
       <Filter>header</Filter>
     </ClInclude>
     <ClInclude Include="header\0449_Serialize_and_Deserialize_BST.hpp">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="header\0297_Serialize_and_Deserialize_Binary_Tree.hpp">
       <Filter>header</Filter>
     </ClInclude>
   </ItemGroup>
