@@ -87,6 +87,7 @@
     <ClInclude Include="header\0515_Find_Largest_Value_in_Each_Tree_Row.hpp" />
     <ClInclude Include="header\0572_Subtree_of_Another_Tree.hpp" />
     <ClInclude Include="header\0622_Design_Circular_Queue.hpp" />
+    <ClInclude Include="header\0652_Find_Duplicate_Subtrees.hpp" />
     <ClInclude Include="header\0695_Max_Area_of_Island.hpp" />
     <ClInclude Include="header\0729_My_Calendar_I.hpp" />
     <ClInclude Include="header\0743_Network_Delay_Time.hpp" />
@@ -162,6 +163,7 @@
     <ClCompile Include="source\0515_Find_Largest_Value_in_Each_Tree_Row.cpp" />
     <ClCompile Include="source\0572_Subtree_of_Another_Tree.cpp" />
     <ClCompile Include="source\0622_Design_Circular_Queue.cpp" />
+    <ClCompile Include="source\0652_Find_Duplicate_Subtrees.cpp" />
     <ClCompile Include="source\0695_Max_Area_of_Island.cpp" />
     <ClCompile Include="source\0743_Network_Delay_Time.cpp" />
     <ClCompile Include="source\0752_Open_the_Lock.cpp" />

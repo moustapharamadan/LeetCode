@@ -179,6 +179,9 @@
     <ClCompile Include="source\0460_LFU_Cache.cpp">
       <Filter>source</Filter>
     </ClCompile>
+    <ClCompile Include="source\0652_Find_Duplicate_Subtrees.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h" />
@@ -399,6 +402,9 @@
       <Filter>header</Filter>
     </ClInclude>
     <ClInclude Include="header\0460_LFU_Cache.hpp">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="header\0652_Find_Duplicate_Subtrees.hpp">
       <Filter>header</Filter>
     </ClInclude>
   </ItemGroup>
