@@ -167,6 +167,12 @@
     <ClCompile Include="source\0146_LRU_Cache.cpp">
       <Filter>source</Filter>
     </ClCompile>
+    <ClCompile Include="source\0054_Spiral_Matrix.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="source\0449_Serialize_and_Deserialize_BST.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h" />
@@ -375,6 +381,12 @@
       <Filter>header</Filter>
     </ClInclude>
     <ClInclude Include="header\0146_LRU_Cache.hpp">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="header\0054_Spiral_Matrix.hpp">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="header\0449_Serialize_and_Deserialize_BST.hpp">
       <Filter>header</Filter>
     </ClInclude>
   </ItemGroup>

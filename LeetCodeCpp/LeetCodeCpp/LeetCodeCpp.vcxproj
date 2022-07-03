@@ -42,6 +42,7 @@
     <ClInclude Include="header\0044_WildcardMatching.hpp" />
     <ClInclude Include="header\0050_Pow.hpp" />
     <ClInclude Include="header\0053_Maximum_Subarray.hpp" />
+    <ClInclude Include="header\0054_Spiral_Matrix.hpp" />
     <ClInclude Include="header\0086_Partition_List.hpp" />
     <ClInclude Include="header\0094_Binary_Tree_Inorder_Traversal.hpp" />
     <ClInclude Include="header\0098_Validate_Binary_Search_Tree.hpp" />
@@ -77,6 +78,7 @@
     <ClInclude Include="header\0387_First_Unique_Character_in_a_String.hpp" />
     <ClInclude Include="header\0394_Decode_String.hpp" />
     <ClInclude Include="header\0437_Path_Sum_III.hpp" />
+    <ClInclude Include="header\0449_Serialize_and_Deserialize_BST.hpp" />
     <ClInclude Include="header\0460_LFUCache.hpp" />
     <ClInclude Include="header\0473_Matchsticks_to_Square.hpp" />
     <ClInclude Include="header\0476_Number_Complement.hpp" />
@@ -120,6 +122,7 @@
     <ClCompile Include="source\0042_Trapping_Rain_Water.cpp" />
     <ClCompile Include="source\0050_Pow.cpp" />
     <ClCompile Include="source\0053_Maximum_Subarray.cpp" />
+    <ClCompile Include="source\0054_Spiral_Matrix.cpp" />
     <ClCompile Include="source\0086_Partition_List.cpp" />
     <ClCompile Include="source\0098_Validate_Binary_Search_Tree.cpp" />
     <ClCompile Include="source\0099_Recover_Binary_Search_Tree_Test.cpp" />
@@ -150,6 +153,7 @@
     <ClCompile Include="source\0345_Reverse_Vowels_of_a_String.cpp" />
     <ClCompile Include="source\0394_Decode_String.cpp" />
     <ClCompile Include="source\0437_Path_Sum_III.cpp" />
+    <ClCompile Include="source\0449_Serialize_and_Deserialize_BST.cpp" />
     <ClCompile Include="source\0473_Matchsticks_to_Square.cpp" />
     <ClCompile Include="source\0515_Find_Largest_Value_in_Each_Tree_Row.cpp" />
     <ClCompile Include="source\0572_Subtree_of_Another_Tree.cpp" />
