@@ -191,6 +191,9 @@
     <ClCompile Include="source\0560_Subarray_Sum_Equals_K.cpp">
       <Filter>source</Filter>
     </ClCompile>
+    <ClCompile Include="source\0713_Subarray_Product_Less_Than_K.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h" />
@@ -423,6 +426,9 @@
       <Filter>header</Filter>
     </ClInclude>
     <ClInclude Include="header\0560_Subarray_Sum_Equals_K.hpp">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="header\0713_Subarray_Product_Less_Than_K.hpp">
       <Filter>header</Filter>
     </ClInclude>
   </ItemGroup>
