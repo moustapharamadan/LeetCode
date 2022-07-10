@@ -188,6 +188,9 @@
     <ClCompile Include="source\0523_Continuous_Subarray_Sum.cpp">
       <Filter>source</Filter>
     </ClCompile>
+    <ClCompile Include="source\0560_Subarray_Sum_Equals_K.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h" />
@@ -417,6 +420,9 @@
       <Filter>header</Filter>
     </ClInclude>
     <ClInclude Include="header\0523_Continuous_Subarray_Sum.hpp">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="header\0560_Subarray_Sum_Equals_K.hpp">
       <Filter>header</Filter>
     </ClInclude>
   </ItemGroup>

@@ -86,6 +86,7 @@
     <ClInclude Include="header\0476_Number_Complement.hpp" />
     <ClInclude Include="header\0515_Find_Largest_Value_in_Each_Tree_Row.hpp" />
     <ClInclude Include="header\0523_Continuous_Subarray_Sum.hpp" />
+    <ClInclude Include="header\0560_Subarray_Sum_Equals_K.hpp" />
     <ClInclude Include="header\0572_Subtree_of_Another_Tree.hpp" />
     <ClInclude Include="header\0622_Design_Circular_Queue.hpp" />
     <ClInclude Include="header\0652_Find_Duplicate_Subtrees.hpp" />
@@ -164,6 +165,7 @@
     <ClCompile Include="source\0473_Matchsticks_to_Square.cpp" />
     <ClCompile Include="source\0515_Find_Largest_Value_in_Each_Tree_Row.cpp" />
     <ClCompile Include="source\0523_Continuous_Subarray_Sum.cpp" />
+    <ClCompile Include="source\0560_Subarray_Sum_Equals_K.cpp" />
     <ClCompile Include="source\0572_Subtree_of_Another_Tree.cpp" />
     <ClCompile Include="source\0622_Design_Circular_Queue.cpp" />
     <ClCompile Include="source\0652_Find_Duplicate_Subtrees.cpp" />
