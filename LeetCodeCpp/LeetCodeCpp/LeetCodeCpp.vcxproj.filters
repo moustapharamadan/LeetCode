@@ -182,6 +182,9 @@
     <ClCompile Include="source\0652_Find_Duplicate_Subtrees.cpp">
       <Filter>source</Filter>
     </ClCompile>
+    <ClCompile Include="source\0907_Sum_of_Subarray_Minimums.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h" />
@@ -405,6 +408,9 @@
       <Filter>header</Filter>
     </ClInclude>
     <ClInclude Include="header\0652_Find_Duplicate_Subtrees.hpp">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="header\0907_Sum_of_Subarray_Minimums.hpp">
       <Filter>header</Filter>
     </ClInclude>
   </ItemGroup>
