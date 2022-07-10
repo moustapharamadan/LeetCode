@@ -185,6 +185,9 @@
     <ClCompile Include="source\0907_Sum_of_Subarray_Minimums.cpp">
       <Filter>source</Filter>
     </ClCompile>
+    <ClCompile Include="source\0523_Continuous_Subarray_Sum.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h" />
@@ -411,6 +414,9 @@
       <Filter>header</Filter>
     </ClInclude>
     <ClInclude Include="header\0907_Sum_of_Subarray_Minimums.hpp">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="header\0523_Continuous_Subarray_Sum.hpp">
       <Filter>header</Filter>
     </ClInclude>
   </ItemGroup>
