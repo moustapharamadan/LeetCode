@@ -78,6 +78,7 @@
     <ClInclude Include="header\0345_Reverse_Vowels_of_a_String.hpp" />
     <ClInclude Include="header\0387_First_Unique_Character_in_a_String.hpp" />
     <ClInclude Include="header\0394_Decode_String.hpp" />
+    <ClInclude Include="header\0402_Remove_K_Digits.hpp" />
     <ClInclude Include="header\0437_Path_Sum_III.hpp" />
     <ClInclude Include="header\0449_Serialize_and_Deserialize_BST.hpp" />
     <ClInclude Include="header\0460_LFUCache.hpp" />
@@ -93,6 +94,7 @@
     <ClInclude Include="header\0695_Max_Area_of_Island.hpp" />
     <ClInclude Include="header\0713_Subarray_Product_Less_Than_K.hpp" />
     <ClInclude Include="header\0729_My_Calendar_I.hpp" />
+    <ClInclude Include="header\0738_Monotone_Increasing_Digits.hpp" />
     <ClInclude Include="header\0743_Network_Delay_Time.hpp" />
     <ClInclude Include="header\0752_Open_the_Lock.hpp" />
     <ClInclude Include="header\0797_All_Paths_From_Source_to_Target.hpp" />
@@ -160,6 +162,7 @@
     <ClCompile Include="source\0322_Coin_Change.cpp" />
     <ClCompile Include="source\0345_Reverse_Vowels_of_a_String.cpp" />
     <ClCompile Include="source\0394_Decode_String.cpp" />
+    <ClCompile Include="source\0402_Remove_K_Digits.cpp" />
     <ClCompile Include="source\0437_Path_Sum_III.cpp" />
     <ClCompile Include="source\0449_Serialize_and_Deserialize_BST.cpp" />
     <ClCompile Include="source\0460_LFU_Cache.cpp" />
@@ -172,6 +175,7 @@
     <ClCompile Include="source\0652_Find_Duplicate_Subtrees.cpp" />
     <ClCompile Include="source\0695_Max_Area_of_Island.cpp" />
     <ClCompile Include="source\0713_Subarray_Product_Less_Than_K.cpp" />
+    <ClCompile Include="source\0738_Monotone_Increasing_Digits.cpp" />
     <ClCompile Include="source\0743_Network_Delay_Time.cpp" />
     <ClCompile Include="source\0752_Open_the_Lock.cpp" />
     <ClCompile Include="source\0797_All_Paths_From_Source_to_Target.cpp" />

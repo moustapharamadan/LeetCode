@@ -194,6 +194,12 @@
     <ClCompile Include="source\0713_Subarray_Product_Less_Than_K.cpp">
       <Filter>source</Filter>
     </ClCompile>
+    <ClCompile Include="source\0402_Remove_K_Digits.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="source\0738_Monotone_Increasing_Digits.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h" />
@@ -429,6 +435,12 @@
       <Filter>header</Filter>
     </ClInclude>
     <ClInclude Include="header\0713_Subarray_Product_Less_Than_K.hpp">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="header\0402_Remove_K_Digits.hpp">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="header\0738_Monotone_Increasing_Digits.hpp">
       <Filter>header</Filter>
     </ClInclude>
   </ItemGroup>
