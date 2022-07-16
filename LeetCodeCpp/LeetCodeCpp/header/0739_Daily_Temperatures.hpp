@@ -1,7 +1,7 @@
 #pragma once
 
 #include <vector>
-#include <deque>
+#include <stack>
 
 namespace LEETCODE_0739 {
     class Solution {
@@ -25,25 +25,17 @@ namespace LEETCODE_0739 {
         std::vector<int> dailyTemperatures2(std::vector<int>& temperatures)
         {
             std::vector<int> result(temperatures.size(), 0);            
-            std::deque<std::pair<int, int>> incrStack;
+            std::stack<int> s;
             for (int i = 0; i < temperatures.size(); ++i)
             {
-                auto it = incrStack.begin();
-                while (!incrStack.empty() && it != incrStack.end())
+                while (!s.empty() && temperatures[s.top()] < temperatures[i])
                 {
-                    if (temperatures[it->first] >= temperatures[i])
-                    {
-                        it->second += 1;
-                        ++it;
-                    }
-                    else
-                    {
-                        result[it->first] = it->second + 1;
-                        incrStack.erase(it++);
-                    }
+                    int index = s.top();
+                    s.pop();
+                    result[index] = i - index;
                 }
 
-                incrStack.push_front(std::pair<int, int>({ i, 0 }));
+                s.push(i);
             }
             return result;
         }
