@@ -200,6 +200,15 @@
     <ClCompile Include="source\0738_Monotone_Increasing_Digits.cpp">
       <Filter>source</Filter>
     </ClCompile>
+    <ClCompile Include="source\0739_Daily_Temperatures.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="source\0321_Create_Maximum_Number.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="source\0084_Largest_Rectangle_in_Histogram.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h" />
@@ -441,6 +450,15 @@
       <Filter>header</Filter>
     </ClInclude>
     <ClInclude Include="header\0738_Monotone_Increasing_Digits.hpp">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="header\0739_Daily_Temperatures.hpp">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="header\0321_Create_Maximum_Number.hpp">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="header\0084_Largest_Rectangle_in_Histogram.hpp">
       <Filter>header</Filter>
     </ClInclude>
   </ItemGroup>

@@ -43,6 +43,7 @@
     <ClInclude Include="header\0050_Pow.hpp" />
     <ClInclude Include="header\0053_Maximum_Subarray.hpp" />
     <ClInclude Include="header\0054_Spiral_Matrix.hpp" />
+    <ClInclude Include="header\0084_Largest_Rectangle_in_Histogram.hpp" />
     <ClInclude Include="header\0086_Partition_List.hpp" />
     <ClInclude Include="header\0094_Binary_Tree_Inorder_Traversal.hpp" />
     <ClInclude Include="header\0098_Validate_Binary_Search_Tree.hpp" />
@@ -74,6 +75,7 @@
     <ClInclude Include="header\0300_Longest_Increasing_Subsequence.hpp" />
     <ClInclude Include="header\0307_Range_Sum_Query_Mutable.hpp" />
     <ClInclude Include="header\0310_Minimum_Height_Trees.hpp" />
+    <ClInclude Include="header\0321_Create_Maximum_Number.hpp" />
     <ClInclude Include="header\0322_Coin_Change.hpp" />
     <ClInclude Include="header\0345_Reverse_Vowels_of_a_String.hpp" />
     <ClInclude Include="header\0387_First_Unique_Character_in_a_String.hpp" />
@@ -95,6 +97,7 @@
     <ClInclude Include="header\0713_Subarray_Product_Less_Than_K.hpp" />
     <ClInclude Include="header\0729_My_Calendar_I.hpp" />
     <ClInclude Include="header\0738_Monotone_Increasing_Digits.hpp" />
+    <ClInclude Include="header\0739_Daily_Temperatures.hpp" />
     <ClInclude Include="header\0743_Network_Delay_Time.hpp" />
     <ClInclude Include="header\0752_Open_the_Lock.hpp" />
     <ClInclude Include="header\0797_All_Paths_From_Source_to_Target.hpp" />
@@ -132,6 +135,7 @@
     <ClCompile Include="source\0050_Pow.cpp" />
     <ClCompile Include="source\0053_Maximum_Subarray.cpp" />
     <ClCompile Include="source\0054_Spiral_Matrix.cpp" />
+    <ClCompile Include="source\0084_Largest_Rectangle_in_Histogram.cpp" />
     <ClCompile Include="source\0086_Partition_List.cpp" />
     <ClCompile Include="source\0098_Validate_Binary_Search_Tree.cpp" />
     <ClCompile Include="source\0099_Recover_Binary_Search_Tree_Test.cpp" />
@@ -159,6 +163,7 @@
     <ClCompile Include="source\0300_Longest_Increasing_Subsequence.cpp" />
     <ClCompile Include="source\0307_Range_Sum_Query_Mutable.cpp" />
     <ClCompile Include="source\0310_Minimum_Height_Trees.cpp" />
+    <ClCompile Include="source\0321_Create_Maximum_Number.cpp" />
     <ClCompile Include="source\0322_Coin_Change.cpp" />
     <ClCompile Include="source\0345_Reverse_Vowels_of_a_String.cpp" />
     <ClCompile Include="source\0394_Decode_String.cpp" />
@@ -176,6 +181,7 @@
     <ClCompile Include="source\0695_Max_Area_of_Island.cpp" />
     <ClCompile Include="source\0713_Subarray_Product_Less_Than_K.cpp" />
     <ClCompile Include="source\0738_Monotone_Increasing_Digits.cpp" />
+    <ClCompile Include="source\0739_Daily_Temperatures.cpp" />
     <ClCompile Include="source\0743_Network_Delay_Time.cpp" />
     <ClCompile Include="source\0752_Open_the_Lock.cpp" />
     <ClCompile Include="source\0797_All_Paths_From_Source_to_Target.cpp" />
