@@ -209,6 +209,9 @@
     <ClCompile Include="source\0084_Largest_Rectangle_in_Histogram.cpp">
       <Filter>source</Filter>
     </ClCompile>
+    <ClCompile Include="source\0901_Online_Stock_Span.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h" />
@@ -459,6 +462,9 @@
       <Filter>header</Filter>
     </ClInclude>
     <ClInclude Include="header\0084_Largest_Rectangle_in_Histogram.hpp">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="header\0901_Online_Stock_Span.hpp">
       <Filter>header</Filter>
     </ClInclude>
   </ItemGroup>
