@@ -2,6 +2,7 @@
 
 #include <vector>
 #include <stack>
+#include <array>
 
 namespace LEETCODE_0901 {
 
@@ -33,29 +34,51 @@ namespace LEETCODE_0901 {
     //    std::stack<int> m_s;
     //};
 
+    //class StockSpanner {
+    //public:
+    //    StockSpanner():
+    //        m_index(),
+    //        m_spanner(),
+    //        m_s()
+    //    {}
+
+    //    int next(int price) 
+    //    {
+    //        m_spanner.push_back(1);
+    //        while (!m_s.empty() && m_s.top().second <= price)
+    //        {
+    //            m_spanner[m_index] += m_spanner[m_s.top().first];
+    //            m_s.pop();
+    //        }
+    //        m_s.push({ m_index, price });
+    //        return m_spanner[m_index++];
+    //    }
+
+    //private:
+    //    size_t m_index;
+    //    std::vector<int> m_spanner;
+    //    std::stack<std::pair<int, int>> m_s;
+    //};
+
     class StockSpanner {
     public:
-        StockSpanner():
-            m_index(),
-            m_spanner(),
+        StockSpanner() :
             m_s()
         {}
 
-        int next(int price) 
+        int next(int price)
         {
-            m_spanner.push_back(1);
-            while (!m_s.empty() && m_s.top().second <= price)
+            int count = 1;
+            while (!m_s.empty() && m_s.top().first <= price)
             {
-                m_spanner[m_index] += m_spanner[m_s.top().first];
+                count += m_s.top().second;
                 m_s.pop();
             }
-            m_s.push({ m_index, price });
-            return m_spanner[m_index++];
+            m_s.push({ price, count });
+            return m_s.top().second;
         }
 
     private:
-        size_t m_index;
-        std::vector<int> m_spanner;
         std::stack<std::pair<int, int>> m_s;
     };
 }
