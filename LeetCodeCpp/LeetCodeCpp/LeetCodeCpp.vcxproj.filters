@@ -212,6 +212,9 @@
     <ClCompile Include="source\0901_Online_Stock_Span.cpp">
       <Filter>source</Filter>
     </ClCompile>
+    <ClCompile Include="source\0079_Word_Search.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h" />
@@ -465,6 +468,9 @@
       <Filter>header</Filter>
     </ClInclude>
     <ClInclude Include="header\0901_Online_Stock_Span.hpp">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="header\0079_Word_Search.hpp">
       <Filter>header</Filter>
     </ClInclude>
   </ItemGroup>
