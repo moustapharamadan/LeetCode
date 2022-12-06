@@ -215,6 +215,9 @@
     <ClCompile Include="source\0079_Word_Search.cpp">
       <Filter>source</Filter>
     </ClCompile>
+    <ClCompile Include="source\0114_Flatten_Binary_Tree_to_Linked_List.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h" />
@@ -471,6 +474,9 @@
       <Filter>header</Filter>
     </ClInclude>
     <ClInclude Include="header\0079_Word_Search.hpp">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="header\0114_Flatten_Binary_Tree_to_Linked_List.hpp">
       <Filter>header</Filter>
     </ClInclude>
   </ItemGroup>
